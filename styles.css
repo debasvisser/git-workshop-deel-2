@@ -10,3 +10,10 @@ section {
     width: 400px;
     box-shadow: 2px 3px 15px orange;
 }
+
+footer {
+    font-size: 14px;
+    font-style: italic;
+    position: absolute;
+    bottom: 0;
+}
